@@ -1,6 +1,14 @@
 import colorama
 import threading
 import requests
+os.system("clear")
+print ("Telegram - @Andreyoss")
+print ("Chat - t.me/hak_team")
+print ("Channel  YouTube - https://www.youtube.com/channel/UC6MUQYq5kg3URYSO5IL9E5g")
+print ("")
+print ("")
+print ("")
+print ("")
 def dos(target):
     while True:
         try:
