@@ -8,7 +8,6 @@ user_agent = (
 os.system("clear")
 print ("Telegram - @Andreyoss")
 print ("Chat - t.me/hak_team")
-print ("Channel  YouTube - https://www.youtube.com/channel/UC6MUQYq5kg3URYSO5IL9E5g")
 print ("")
 print ("")
 print ("")
